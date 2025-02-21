@@ -33,4 +33,4 @@ Welcome to my portfolio website! This platform showcases my work in **Web Develo
 This project is not open-source and is available under the **MIT License**.  
 
 ---
-👨‍💻 Built with passion by **Eugene Gabriel**  
+👨‍💻 Built with passion by [Eugene Mutembei](https://eugeniuss.netlify.app/)   
