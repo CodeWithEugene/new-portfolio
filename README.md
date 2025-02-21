@@ -1,4 +1,4 @@
-# Eugene Gabriel - Portfolio Website  
+# Eugene Mutembei - Portfolio Website  
 
 Welcome to my portfolio website! This platform showcases my work in **Web Development, UI/UX Design, Data Science, Machine Learning, and AI**. Explore my projects, learn about my expertise, and connect with me.  
 
@@ -30,7 +30,7 @@ Welcome to my portfolio website! This platform showcases my work in **Web Develo
 🐱 GitHub: [CodeWithEugene](https://github.com/CodeWithEugene/)  
 
 ## 📄 License  
-This project is open-source and available under the **MIT License**.  
+This project is not open-source and is available under the **MIT License**.  
 
 ---
 👨‍💻 Built with passion by **Eugene Gabriel**  
